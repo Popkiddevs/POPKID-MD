@@ -14,7 +14,7 @@ adams({ nomCom: 'quote', categorie: 'Fun' }, async (dest, zk, commandeOptions) =
         .then((response) => response.json())
         .then(async (quote) => {
           repondre(`╔══════════════════════════╗
-║   Bmw-md               ║
+║   Popkid-md               ║
 ╚══════════════════════════╝
 
 🎬 Anime: ${quote.anime}
