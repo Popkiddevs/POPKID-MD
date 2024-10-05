@@ -44,7 +44,7 @@ const alive = async (m, Matrix) => {
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© Ibrahim Adams"
+            text: "© popkid"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
