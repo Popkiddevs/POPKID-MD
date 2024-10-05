@@ -12,7 +12,7 @@ const alive = async (m, Matrix) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
     if (['alive', 'uptime', 'runtime'].includes(cmd)) {
 
-  const uptimeMessage = `*BMW MD IS ACTIVE*
+  const uptimeMessage = `*POPKID MD IS ACTIVE*
 
 ╭─────═━┈┈━═──━┈⊷
 ┇ *${days} Day*
@@ -60,8 +60,8 @@ const alive = async (m, Matrix) => {
                   forwardingScore: 999,
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                  newsletterJid: '254710772666',
-                  newsletterName: "BMW MD",
+                  newsletterJid: '254111385747',
+                  newsletterName: "POPKID MD",
                   serverMessageId: 143
                 }
               }
