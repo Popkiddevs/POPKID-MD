@@ -11,7 +11,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
   const validCommands = ['repo', 'sc', 'script'];
 
   if (validCommands.includes(cmd)) {
-    const repoUrl = `https://api.github.com/repos/devibraah/BWM-XMD`;
+    const repoUrl = `https://api.github.com/repos/Popkiddevs/POPKID-MD`;
     
     await handleRepoCommand(m, Matrix, repoUrl);
   }
@@ -53,7 +53,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
               text: messageText,
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
-              text: '© Ibrahim Adams',
+              text: '© POPKID',
             }),
             header: proto.Message.InteractiveMessage.Header.create({
               ...(await prepareWAMessageMedia({
@@ -86,7 +86,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
                     display_text: 'Join Our Cchannel',
-                    url: 'https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y',
+                    url: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
                   }),
                 },
               ],
