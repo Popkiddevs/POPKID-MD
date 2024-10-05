@@ -2,9 +2,9 @@
 Yoo bro what au looking for
 Just deploy the bot with original repo
 
-BMW MD
+POPKID MD
 
-Made by dev Ibrahim Adams
+Made by dev popkid
 
 
                  _.u[[/;:,.         .odMMMMMM'
