@@ -37,11 +37,11 @@ const date = moment().format('DD/MM/YYYY');
   let infoMsg =  `
   *Hey🖐️* *${nomAuteurMessage}*
   
-  *BMW MD IS RUNNING WITH [${cm.length}0] COMMANDS*
+  *POPKID MD IS RUNNING WITH [${cm.length}0] COMMANDS*
 
   *More commands will be out soon*
  
-  🚘🚘🚘
+  ⭐⭐⭐
  `;
     
 let menuMsg = `
@@ -49,7 +49,7 @@ let menuMsg = `
 > 📅 ᴅᴀᴛᴇ: ${date} 
 
 
-> Made by : ©Ibrahim Adams 
+> Made by : ©POPKID
 `;
 
    var lien = mybotpic();
