@@ -146,7 +146,7 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
             content = { 
               video: finalMediaBuffer, 
               mimetype: 'video/mp4', 
-              caption: '> © Ibrahim Adams',
+              caption: '> © popkid',
             };
             await Matrix.sendMessage(m.from, content, { quoted: m });
           } else {
