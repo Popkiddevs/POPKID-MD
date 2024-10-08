@@ -80,10 +80,10 @@ const text = m.body.slice(prefix.length + cmd.length).trim();
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `*BMW-MD FACEBOOK POST DOWNLOADER*\n\n> *TITLE*: ${fbData.title}`
+                text: `*POPKID-MD FACEBOOK POST DOWNLOADER*\n\n> *TITLE*: ${fbData.title}`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "©Ibrahim Adams"
+                text: "©POPKID"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia({ image: { url: fbData.thumbnail } }, { upload: Matrix.waUploadToServer })),
