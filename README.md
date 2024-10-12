@@ -15,7 +15,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/Ibrahimtech"><img title="Author" src="https://img.shields.io/badge/popkidtech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254111385747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Popkiddevs"><img title="Author" src="https://img.shields.io/badge/popkidtech-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254111385747"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/Popkiddevs?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Popkiddevs?label=Followers&style=social"></a>
