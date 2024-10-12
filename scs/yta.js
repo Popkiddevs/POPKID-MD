@@ -191,7 +191,7 @@ const ytsearch = async (_0x42b2d3, _0x229d74) => {
             'interactiveMessage': proto.Message.InteractiveMessage.create({
               'body': proto.Message.InteractiveMessage.Body.create(_0x2923c3),
               'footer': proto.Message.InteractiveMessage.Footer.create({
-                'text': "© Ibrahim Adams"
+                'text': "© popkid"
               }),
               'header': proto.Message.InteractiveMessage.Header.create({
                 ...(await prepareWAMessageMedia(_0x5e13ab, _0x4ad10d)),
